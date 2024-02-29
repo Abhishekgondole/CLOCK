@@ -37,6 +37,7 @@
 	word-spacing: 36px;
 	margin-left: 16px;
 }
-table{
+td{
+	color: yellow;
 	margin-top: 50px;
 }
